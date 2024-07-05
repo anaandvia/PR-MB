@@ -1,0 +1,46 @@
+
+.row .card:hover{
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+    transform: scale(1.02);
+}
+.row .card {
+    background-color: #F1B24A;
+    border-color: #F1B24A;
+    align-items: center;
+    width: 16rem;
+}
+#accordionSidebar {
+    background: #F1B24A;
+}
+.card h5 , .card i{
+    color :white;
+}
+.nav-item i {
+    color: #F1B24A;
+}
+.row {
+    text-align: center;
+}
+.card {
+    margin-bottom: 2%;
+}
+/* .card h5 {
+    font-size: 5vw;
+} */
+#content-wrapper {
+    background: linear-gradient(90deg, #164A41 6.67%, #4D774E 56.77%, #9DC88D 106.67%);
+}
+.container-fluid h1 {
+    color: white;
+}
+.btn-warning {
+    background: #F1B24A;
+    color: white;
+}
+label {
+    color: black;
+}
+h6 .dropdown-header {
+    background-color: #F1B24A;
+}
+

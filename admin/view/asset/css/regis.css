@@ -1,0 +1,34 @@
+body {
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, #164A41 6.67%, #4D774E 56.77%, #9DC88D 106.67%);
+}
+.card {
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.form-group input:hover , .form-group select:hover {
+    border-color: #164A41;
+    box-shadow: 0 0 0 0.2rem rgba(22, 74, 65, 0.25);
+}
+.form-control:focus {
+    border-color: #164a41;
+    box-shadow: 0 0 0 0.2rem rgba(22, 74, 65, 0.25);
+}
+button {
+
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    background: linear-gradient(90deg, #164A41 6.67%, #4D774E 56.77%, #9DC88D 106.67%);
+}
+
+button:hover {
+    background: linear-gradient(-90deg, #164A41 6.67%, #4D774E 56.77%, #9DC88D 106.67%);
+}
+p {
+    text-align: center;
+}
